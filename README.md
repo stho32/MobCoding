@@ -26,6 +26,8 @@ He always has the next task at hand when people do not know what to do next. The
 
 One might explain it in a different way: The driver is the dude in the car on the steering weel. The navigator sits next to him and tells him about the next turn and other stuff immediately important, maybe he gives some clues about where the immediate journey will go. The Lead is a guy with the map who is also sitting in the car. He has the journey route for the next week and is looking out for the longer term weather conditions, maybe plotting a different course to the target town on the fly if neccessary.
 
+[Tasks of the Lead](lead-tasks.md)
+
 ## Solution techniques
 
 ### Different solutions to the same problem
